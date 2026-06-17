@@ -6,7 +6,7 @@ An interactive Machine Learning web application that predicts student marks base
 
 
 
-\## 🚀 Features
+\## 🚀 Features .. 
 
 \- User inputs study hours
 
