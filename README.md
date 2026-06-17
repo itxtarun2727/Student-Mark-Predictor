@@ -34,7 +34,7 @@ An interactive Machine Learning web application that predicts student marks base
 
 \## 🌐 Live App
 
-👉 (Add deployed link here after deployment)
+👉 https://student-mark-predictor-iclymawrcjd3wxwuvabcuz.streamlit.app/
 
 
 
