@@ -45,7 +45,7 @@ An interactive Machine Learning web application that predicts student marks base
 
 \## 👨‍💻 Author
 
-Tarun
+Tarun , 
 
 
 
