@@ -8,15 +8,14 @@ An interactive Machine Learning web application that predicts student marks base
 
 \## 🚀 Features .. 
 
-\- User inputs study hours
+\- User inputs study hours ...
 
-\- ML model predicts expected marks
+\- ML model predicts expected marks....
 
 \- Clean and interactive UI
 
 \- Built using Python and Streamlit
-
-
+   <!-- bbuilt with me -->
 
 \## 🛠 Tech Stack
 
